@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+.*.swp
+node_modules/
+package-lock.json
